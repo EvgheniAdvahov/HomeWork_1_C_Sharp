@@ -73,8 +73,10 @@ while(i <= number)
         Console.WriteLine(i);
         i+=2;
     }
-    else
-    {
-        i++;
-    }
+    // else
+    // {
+    //     i++;
+    // }
 }
+
+// Если i =2 то можно обойтись без else
